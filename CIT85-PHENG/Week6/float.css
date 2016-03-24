@@ -1,0 +1,39 @@
+* {
+    margin:0px;
+    padding:0px;
+    font-family:sans-serif;
+}
+
+
+
+header {
+    width:150px;
+    background:#09f;
+    float:left;
+    box-sizing: border-box;
+}
+ul {
+    background:#333;
+
+}
+ul li {
+    list-style:none;
+    padding:20px;
+
+
+}
+ul li a{
+    color:#fff;
+    list-style-type: none;
+    text-decoration: none;
+}
+ul li a:hover {
+    background:#cccccc;
+
+}
+#center {
+    width:75%;
+    float:right;
+    height:500px;
+    background: #ffff00;
+}

@@ -1,0 +1,24 @@
+@media (max-width: 600px) {
+    ol li {
+        display: block;
+        list-style-type:none;
+    }
+    ul li {
+        display: block;
+        list-style-type:none;
+    }
+    #top-bar {
+        width:67%;
+        height:150px;
+        margin:0 auto;
+        text-align: center;
+    }
+    #top-bar img {
+        margin:0 auto;
+    }
+    #search-bar {
+        margin: 0 auto;
+    }
+
+
+}

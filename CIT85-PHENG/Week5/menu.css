@@ -1,0 +1,38 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+header {
+    width:75%;
+    margin:0 auto;
+    display: flex;
+    background:#ff4455;
+}
+
+ul {
+    background-color:#333;
+    margin: 0 auto;
+}
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding:10px;
+}
+ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    padding:10px;
+    color:#fff;
+}
+ul li a:hover {
+    background:#0099ff;
+}
+#center {
+    margin:0 auto;
+    background:#666;
+    padding:20px;
+    box-sizing: border-box;
+    width:75%;
+    color:#fff;
+    text-align: center;
+}

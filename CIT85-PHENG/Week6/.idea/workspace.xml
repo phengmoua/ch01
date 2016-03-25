@@ -24,18 +24,38 @@
       <file leaf-file-name="floatlayout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/floatlayout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state vertical-scroll-proportion="-8.75">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="float.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="clearfloat.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clearfloat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.49848944">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="float.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/float.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.79305136">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clearfloat.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clearfloat.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,8 +78,8 @@
         <option value="$PROJECT_DIR$/relative.html" />
         <option value="$PROJECT_DIR$/float.html" />
         <option value="$PROJECT_DIR$/styles.css" />
-        <option value="$PROJECT_DIR$/floatlayout.html" />
         <option value="$PROJECT_DIR$/float.css" />
+        <option value="$PROJECT_DIR$/floatlayout.html" />
       </list>
     </option>
   </component>
@@ -241,18 +261,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/floatlayout.html">
+    <entry file="file://$PROJECT_DIR$/float.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/float.css">
+    <entry file="file://$PROJECT_DIR$/clearfloat.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79305136">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/floatlayout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clearfloat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49848944">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>

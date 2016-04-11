@@ -1,0 +1,40 @@
+body {
+    background-image: url("BG.JPG");
+    background-repeat:no-repeat;
+    background-position: top center 0;
+    background-attachment:fixed;
+    background-size:cover;
+
+}
+h1 {
+    text-align: center;
+    margin-top:20px;
+    color:#fff;
+}
+nav {
+    display: flex;
+    justify-content:center;
+    background-color:rgba(0,0,0,0.5);
+    padding:30px;
+    font-weight:bold;
+}
+ul {
+    display: flex;
+}
+li a{
+    text-decoration: none;
+    color:white;
+    padding:20px;
+
+}
+.content {
+    width:77%;
+    margin:0 auto;
+    background-color:rgba(255,255,255,0.5);
+    height:200px;
+    position: relative;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:20px;
+    box-sizing: border-box;
+}
